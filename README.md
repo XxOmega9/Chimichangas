@@ -1,7 +1,2 @@
 # Chimichangas
-6AVP\n
-Angulo García Krisell Bettina\n
-Delgado Germán Ana Sofía\n
-Dominguez Lizárraga Diego Joan\n
-Esparza Uriarte Rosselyn\n
-Lopéz Beltrán José David\n
+6AVP Angulo García Krisell Bettina Delgado Germán Ana Sofía Dominguez Lizárraga Diego Joan Esparza Uriarte Rosselyn Lopéz Beltrán José David
